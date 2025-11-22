@@ -94,5 +94,3 @@
 
 ###
 
-
-The new file and style has to be implemented inorder ot get the attention..
