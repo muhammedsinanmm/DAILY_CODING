@@ -24,7 +24,7 @@ def bruce(li):
     if (P & (P - 1)) == 0:   # already power of 2
         return P
     return 1 << (P.bit_length())   # next power of 2
-
+    # here 1<< (p.bit_length()) works similar to 2**(p.bit_length()) 
 
 
 li = [2,3,4]
